@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🚀 Nabapratim Dutta
+# 🚀 Nava Protim Dutta
 💡 Data Analyst | SQL • Python • Power BI
 
 ---
