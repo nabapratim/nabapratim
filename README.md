@@ -25,7 +25,7 @@
 ### 🚚 E-commerce Delivery Analysis
 - 📦 Analyzed 10M+ rows to identify delivery delays  
 - 📉 Found key factors impacting customer satisfaction  
-👉 [View Project]([YOUR_LINK](https://github.com/nabapratim/ecommerce-delivery-delay-analysis))
+👉 [View Project](https://github.com/nabapratim/ecommerce-delivery-delay-analysis))
 
 ---
 
