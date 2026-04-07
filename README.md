@@ -38,5 +38,5 @@
 
 ## 📬 Connect with me
 - 📧 Email: nabapratim.dutta@gmail.com
-- 💼 LinkedIn:[your-link](https://www.linkedin.com/in/nabapratimdutta/)
+- 💼 LinkedIn: [NavaProtimDutta](https://www.linkedin.com/in/nabapratimdutta/)
   
