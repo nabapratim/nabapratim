@@ -42,7 +42,7 @@ Focus areas:
 - Customer segmentation & retention
 - Pareto (80/20) contribution analysis
 - KPI-driven decision making 
-👉 [View Project]((https://github.com/nabapratim/sql-business-analysis-case-study))
+👉 [View Project](https://github.com/nabapratim/sql-business-analysis-case-study))
 
 ---
 ## 📬 Connect with me
