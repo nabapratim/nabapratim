@@ -35,7 +35,16 @@
 👉 [View Project](https://github.com/nabapratim/vendor_performance_analysis))
 
 ---
+### 📈 sql-business-analysis-case-study
+- 🧠 SQL-based business analysis case study demonstrating how raw data is transformed into actionable insights
+Focus areas:
+- Revenue & performance analysis (YoY, trends)
+- Customer segmentation & retention
+- Pareto (80/20) contribution analysis
+- KPI-driven decision making 
+👉 [View Project]((https://github.com/nabapratim/sql-business-analysis-case-study))
 
+---
 ## 📬 Connect with me
 - 📧 Email: nabapratim.dutta@gmail.com
 - 💼 LinkedIn: [NavaProtimDutta](https://www.linkedin.com/in/nabapratimdutta/)
