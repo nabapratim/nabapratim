@@ -33,6 +33,8 @@
 - 🧠 Built end-to-end analytics pipeline  
 - 📊 Identified top vendors driving majority revenue  
 👉 [View Project](https://github.com/nabapratim/vendor_performance_analysis))
+<img width="1268" height="511" alt="Screenshot 2026-04-07 211333" src="https://github.com/user-attachments/assets/c971ed37-32d0-42f7-aad2-89dacc17cbcb" />
+<img width="1164" height="691" alt="Screenshot 2026-04-07 211354" src="https://github.com/user-attachments/assets/31e2f2c5-4fc1-4b20-9e16-4526c1a40685" />
 
 ---
 ### 📈 sql-business-analysis-case-study
